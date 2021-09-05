@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run myapp_currency.py
+web: sh setup.sh && streamlit run myappcurrency.py
